@@ -16,7 +16,7 @@ timezone: Asia/Singapore
 
 title: thoughtsondev # the main title
 
-tagline: My small part of the w3 # it will display as the subtitle
+tagline: My small corner of the w3 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   cpythonuser's blog on programming and software engineering.
@@ -97,7 +97,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "/assets/img/avatars/avatar.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
